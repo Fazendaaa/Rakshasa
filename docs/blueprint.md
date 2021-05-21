@@ -17,11 +17,11 @@ Made with:
 
 Currently, in the company that I work for we have a CLI (Command Line Interface) made in [Python](https://www.python.org/) called `estat` that you can read more about it right [here](https://github.com/Fazendaaa/Succubus). {{ pkg.name }} by itself ain't a reimplemented version of a current `estat` feature, but a new one; as some may know, there are many Continuos Integration (CI) / Continouos Delivery (CD) platforms as:
 
-- [Github Actions]
-- [Circle CI]
-- [Gitlab's CI/CD]
-- [Travis CI]
-- [Jenkings]
+- [Github Actions](https://github.com/features/actions)
+- [Circle CI](https://circleci.com/)
+- [Gitlab's CI/CD](https://docs.gitlab.com/ee/ci/)
+- [Travis CI](https://travis-ci.org/)
+- [Jenkins](https://www.jenkins.io/)
 - etc.
 
 And many of those services have their own way of doing this, which becomes a pain when migrating from one to another or even updating something.
